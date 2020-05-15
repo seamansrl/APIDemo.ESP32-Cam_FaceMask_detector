@@ -44,3 +44,6 @@ El usuario, Password y Perfil se obtienen en esta primer etapa desde el software
 Ejemplo de como usar el administrador aca:
 
 https://www.youtube.com/watch?v=pf7yy0KpRks&t=3s
+
+Paso a paso del armado del hardware de este proyecto acá:
+https://www.youtube.com/watch?v=PFd2oFa80TU
