@@ -48,3 +48,12 @@ https://www.youtube.com/watch?v=pf7yy0KpRks&t=3s
 Paso a paso del armado del hardware de este proyecto acá:
 
 https://www.youtube.com/watch?v=PFd2oFa80TU
+
+# Contactanos en:
+https://www.linkedin.com/company/35599193/admin/
+
+# Seguime en:
+https://www.linkedin.com/in/fernando-p-maniglia/
+
+# Conocenos más en:
+https://www.seamansrl.com.ar
